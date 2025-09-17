@@ -1,3 +1,5 @@
+# *historical scaffold / deprecated simulation archive for syombolic metric prototypes*
+
 # recursive-cognitive-dynamics
  A recursive alignment and cognitive containment framework for human-AI interaction
 # Recursive Cognitive Dynamics (RCD) + Recursive Cognitive Architecture (RCA)
